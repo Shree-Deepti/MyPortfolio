@@ -1,0 +1,13 @@
+h1{
+    align-content: center;
+    text-align: center;
+    font-size: medium;
+    font-style: unset;
+    color: rgb(114, 216, 216);
+    margin-top: 55px;
+    width: 18%;
+    height: 25%;
+    border: 5px solid;
+    padding-right: 55px;
+    justify-content: center;
+}
